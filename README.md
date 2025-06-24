@@ -16,3 +16,13 @@ To analyze and identify phishing characteristics in a suspicious email impersona
 | Generic Greeting        | Starts with “Dear Customer” instead of the recipient’s real name.            | 
 |Fake Login Location Info |Mentions login from Mumbai (IP: 185.143.223.67) to make the alert seem real.  | 
 
+## Protection Guidelines
+-   Don’t Click Suspicious Links
+-   Verify the Sender
+-   Use Two-Factor Authentication (2FA)
+-   Never Share Sensitive Info via Email
+-   Report Phishing Emails
+
+## Tools used
+-   MXToolBox Header Analyzer
+-   Blacklist verification via AbuseIPDB
