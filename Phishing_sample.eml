@@ -1,8 +1,6 @@
-Subject: 🔴 Action Required: Unusual Login Detected on Your Account
-
 From: "Amazon Security" no-reply@amaz0n-security.com
-
-Body:
+To:user@gmail.com
+Subject: 🔴 Action Required: Unusual Login Detected on Your Account
 
 Dear Customer,
 
@@ -10,7 +8,7 @@ We detected a suspicious login attempt to your Amazon account from a new device 
 
 ⚠️ Take Action Now:
 
-Review the suspicious activity here: Secure Your Account (fake link)
+Review the suspicious activity here: http://amaz0n-verify[.]net/login
 
 Verify your identity to prevent account suspension.
 
