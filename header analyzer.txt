@@ -1,0 +1,20 @@
+
+Delivered-To: user@gmail.com
+Received: by 2002:a05:6e10:24c6:0:0:0:0 with SMTP id x6csp123456789;
+        Tue, 25 Jun 2024 12:34:56 -0700 (PDT)
+Received: from mail.amaz0n-security.com (45.231.221.67)
+        by mx.google.com with ESMTPS id abc123def456
+        (version=TLS1_3 cipher=AEAD-AES256-GCM-SHA384);
+        Tue, 25 Jun 2024 12:34:55 -0700 (PDT)
+Return-Path: <bounce@amaz0n-security.com>
+Received-SPF: neutral (google.com: 45.231.221.67 is neither permitted nor denied by domain of amaz0n-security.com)
+Authentication-Results: mx.google.com;
+       dkim=none;
+       spf=neutral 
+       dmarc=fail 
+From: "Amazon Security" <no-reply@amaz0n-security.com>
+To: user@gmail.com
+Subject: 🔴 Action Required: Unusual Login Detected on Your Account
+Date: Tue, 25 Jun 2024 12:34:54 -0700
+Message-ID: <20240625123454.abc123@amaz0n-security.com>
+Reply-To: support@amaz0n-support.net
